@@ -19,7 +19,7 @@ const Navbar = () => {
       <nav className="flex justify-between items-center py-6">
         <a href="/" className="flex items-center gap-2 text-2xl text-black">
           <img src={Logo} alt="logo" className="h-20" />
-          <span>GetHired</span>
+          <span>HireLoom</span>
         </a>
         {/* Nav items for large devices */}
         <ul className="hidden md:flex gap-12">
