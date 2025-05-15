@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="flex flex-col md:flex-row justify-between items-start md:items-center bg-blue/60 p-4 md:p-6 shadow-lg">
       <div className="mb-4 md:mb-0">
-        <h2 className="font-semibold text-lg text-white">GetHired @2023</h2>
+        <h2 className="font-semibold text-lg text-white">HireLoom @2025</h2>
         <p className="text-sm text-white">
           We are a leading job portal, connecting talented individuals with the
           best job opportunities around the world.
@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="mb-4 md:mb-0">
         <h2 className="font-semibold text-lg text-white">Contact Us</h2>
         <p className="text-sm text-white">
-          Email: gethired@jobportal.com
+          Email: HireLoom@jobportal.com
           <br />
           Phone: +91 999-9999-999
         </p>
